@@ -14,22 +14,22 @@ A list of Github repositories to centralize methods and applications of Explaina
 
 ## Some applications in Bioinformatics
 
-https://github.com/labnams/IC50_individual_drug
-https://github.com/MI2DataLab/survshap 
-https://github.com/Nicolik/SurvIAE 
-https://github.com/SheetalRajpal/cnv-marker 
-https://github.com/karthiksekaran/alzheimer-biomarker-study-XAI
-https://github.com/zhangxiaoyu11/XOmiVAE/ 
-https://github.com/minji-mia/CLAM-Detailed-Explainer 
-https://github.com/danielmacedodc/SIBGRAPI_2022 
-https://github.com/AGFoersch/MultiStainDeepLearning 
-https://github.com/tchanda90/Derma-XAI 
-https://github.com/CristianoPatricio/coherent-cbe-skin 
-https://github.com/maximek3/MIMIC-NLE 
-https://github.com/maragraziani/XAI_evaluation 
-https://github.com/asaranti/GNN_Counterfactuals 
-https://github.com/phineasng/flan_bio 
-https://github.com/dylan-slack/Fooling-LIME-SHAP 
-https://github.com/jianhuupenn/SpaGCN 
-https://github.com/galtan-PhD/DeepOCT-Architecture/ 
-https://github.com/marrlab/HistoGPT
+https://github.com/labnams/IC50_individual_drug  
+https://github.com/MI2DataLab/survshap  
+https://github.com/Nicolik/SurvIAE   
+https://github.com/SheetalRajpal/cnv-marker   
+https://github.com/karthiksekaran/alzheimer-biomarker-study-XAI  
+https://github.com/zhangxiaoyu11/XOmiVAE/  
+https://github.com/minji-mia/CLAM-Detailed-Explainer   
+https://github.com/danielmacedodc/SIBGRAPI_2022   
+https://github.com/AGFoersch/MultiStainDeepLearning   
+https://github.com/tchanda90/Derma-XAI   
+https://github.com/CristianoPatricio/coherent-cbe-skin   
+https://github.com/maximek3/MIMIC-NLE   
+https://github.com/maragraziani/XAI_evaluation   
+https://github.com/asaranti/GNN_Counterfactuals   
+https://github.com/phineasng/flan_bio   
+https://github.com/dylan-slack/Fooling-LIME-SHAP   
+https://github.com/jianhuupenn/SpaGCN   
+https://github.com/galtan-PhD/DeepOCT-Architecture/   
+https://github.com/marrlab/HistoGPT  
