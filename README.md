@@ -4,13 +4,13 @@ A list of Github repositories to centralize methods and applications of Explaina
 ## Introduction 
 
 ## Methods
-**[LIME (Local Interpretable Model-Agnostic Explanations)]**(https://github.com/marcotcr/lime)  
-**[SHAP (SHapley Additive exPlanations)]**(https://github.com/shap/shap)  
-**[Gradient-based methods]**(https://github.com/utkuozbulak/pytorch-cnn-visualizations)  
-**[Grad-CAM (Gradient-weighted Class Activation Mapping)]**(https://github.com/jacobgil/pytorch-grad-cam)  
-**[LRP (Layer-wise relevance propagation)]**(https://github.com/sebastian-lapuschkin/lrp_toolbox)  
-**[IG (Integrated Gradients)]**(https://github.com/ankurtaly/Integrated-Gradients)  
-**[Graph-based GNNExplainer]**(https://github.com/RexYing/gnn-model-explainer)  
+**[LIME (Local Interpretable Model-Agnostic Explanations)](https://github.com/marcotcr/lime)**  
+**[SHAP (SHapley Additive exPlanations)](https://github.com/shap/shap)**  
+**[Gradient-based methods]**(https://github.com/utkuozbulak/pytorch-cnn-visualizations)**  
+**[Grad-CAM (Gradient-weighted Class Activation Mapping)](https://github.com/jacobgil/pytorch-grad-cam)**  
+**[LRP (Layer-wise relevance propagation)](https://github.com/sebastian-lapuschkin/lrp_toolbox)**  
+**[IG (Integrated Gradients)](https://github.com/ankurtaly/Integrated-Gradients)**  
+**[Graph-based GNNExplainer](https://github.com/RexYing/gnn-model-explainer)**  
 
 ## Some applications in Bioinformatics
 
