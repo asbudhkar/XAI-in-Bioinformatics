@@ -2,6 +2,13 @@
 A list of Github repositories to centralize methods and applications of Explainable Artificial Intelligence (XAI) in bioinformatics
 
 ## Introduction 
+The widespread adoption of Artificial Intelligence (AI) and machine learning
+(ML) tools across various domains has showcased their remarkable capabilities
+and performance. Black-box AI models raise concerns about decision
+transparency and user confidence. Therefore, explainable AI (XAI) and explainability
+techniques have rapidly emerged in recent years. This repository
+provides some XAI frameworks and their applications in bioinformatics,
+with a particular focus on omics and imaging.  
 
 ## Methods
 **[LIME (Local Interpretable Model-Agnostic Explanations)](https://github.com/marcotcr/lime)**  
